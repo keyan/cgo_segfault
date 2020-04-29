@@ -1,0 +1,3 @@
+cgo_segfault
+.*swp
+.*swo
